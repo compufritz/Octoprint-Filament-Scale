@@ -69,7 +69,7 @@ class Filament_scalePlugin(octoprint.plugin.SettingsPlugin,
 
 				# version check: github repository
 				type="github_release",
-				user="dieki-n",
+				user="compufritz",
 				repo="OctoPrint-Filament-scale",
 				current=self._plugin_version,
 
