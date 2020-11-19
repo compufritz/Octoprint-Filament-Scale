@@ -25,8 +25,8 @@ class Filament_scalePlugin(octoprint.plugin.SettingsPlugin,
 			tare = 8430152,
 			reference_unit=-411,
 			spool_weight=200,
-			clockpin=21,
-			datapin=20,
+			clockpin=15,
+			datapin=14,
 			lastknownweight=0
 			
 			# put your plugin's default settings here
