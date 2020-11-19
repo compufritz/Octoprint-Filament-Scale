@@ -74,7 +74,7 @@ class Filament_scalePlugin(octoprint.plugin.SettingsPlugin,
 				current=self._plugin_version,
 
 				# update method: pip
-				pip="https://github.com/dieki-n/OctoPrint-Filament-scale/archive/{target_version}.zip"
+				pip="https://github.com/compufritz/OctoPrint-Filament-scale/archive/{target_version}.zip"
 			)
 		)
 
